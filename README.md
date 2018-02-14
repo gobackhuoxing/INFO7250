@@ -1,4 +1,4 @@
-# IOfO7250 Engineering Big-Data Systems
+# INFO7250 Engineering Big-Data Systems
 ## FinalProject Listen Picture
 ## Music Recommendation Application based on Visual Elements
 1.Developed a big data application which recommends music for users based on the photo they submit  
