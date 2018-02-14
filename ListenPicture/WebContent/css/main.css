@@ -1,0 +1,179 @@
+@CHARSET "UTF-8";
+.t1 {
+	width: 600px; padding : 10px;
+	text-align:center;margin:0px auto;		
+					
+}
+
+
+input[type=text] {
+	width: 250px;
+}
+
+input[type=password] {
+	width: 250px;
+}
+
+textarea {
+	width: 250px;
+	heigth: 300px;
+}
+
+.label {
+	text-align: right;
+	vertical-align: top;
+}
+
+.t2 {
+	margin-left: 10 px;
+}
+
+
+
+.valid {
+	font-size: small;
+	color: green;
+	margin-left: 10px;
+}
+
+.off{
+	padding: 30px;
+	margin:auto;
+	border-spacing: 50px;
+	border-collapse: separate;
+}
+
+p.error{
+	font-size: 15px;
+	
+}
+
+input.delete{
+	border: 1px solid red;
+}
+
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      background-color: rgb(255, 0, 0); /* Green */
+      color: #ffffff;
+  }
+  .bg-2 { 
+     /*  background-color: #474e5d; Dark Blue
+      color: #ffffff; */
+  }
+  
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      /* padding-top: 15px; */
+     /*  padding-bottom: 15px; */
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: (255, 165, 197) !important;
+  }
+  .welcome {
+ 	float: left;
+  	font-size: 12px;
+  }
+  .logout {
+  	font-size: 12px;
+  	float:right;
+  }
+  .xiaocase{
+  font-size: 50px;
+  }
+  .copyright{
+  font-size: 12px;
+  }
+  .tabletext{
+  	float:left;
+  	border: none;
+  	background-color : #474e5d;
+  }
+  .tabletext:focus{
+
+  }
+  .loginbutton{
+	 margin:0 auto;
+  width:200px;heigth:200px;	
+  background-color: #474e5d;
+  }
+  .createaccount{
+  color: #ffffff;
+  }
+  
+  .error{
+	font-size: 11px;
+	color: red;
+	margin-left: 10px;
+}
+ .loginnow{
+ 	font-size: 18px;
+ 	color: white;
+ }
+ .username{
+ 	font-size: 22px;
+ }
+ .subject{
+ 	font-size: 32px;
+ }
+ .sub{
+ 	color: white;
+ }
+ .checkapp{
+ 	width:400px;	
+ 	margin:0 auto;
+ 	background-color: #474e5d;
+ }
+ .confirm{
+  margin:0 auto;
+  width:300px;heigth:200px;	
+  background-color: #474e5d;
+ }
+ 
+ .mDiv1{ 
+	display:inline;
+	float:left; height:50px;width:50px;margin-left: auto; margin-right: auto;
+ } 
+ .mDiv2{ 
+	display:inline;
+	float:left; height:50px;width:100px;margin-left: auto; margin-right: auto;
+ } 
+ .mDiv3{ 
+	display:inline;
+	float:left; height:50px;width:150px;margin-left: auto; margin-right: auto;
+ } 
+ .mDiv4{ 
+	display:inline;
+	float:left; height:50px;width:250px;margin-left: auto; margin-right: auto;
+ } 
+ .mDiv5{ 
+	display:inline;
+	float:left; height:50px;width:300px;margin-left: auto; margin-right: auto;
+ } 
+
+.container-fluid bg-2 text-center{
+	color:rgb(255, 0, 128);
+}
+
+h3{
+	color:red;
+}
+ 

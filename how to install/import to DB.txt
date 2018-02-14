@@ -1,0 +1,1 @@
+mongoimport --db songs --collection song --type csv --headerline --ignoreBlanks --file C:\Users\XiaoCase\Desktop\songs.csv
