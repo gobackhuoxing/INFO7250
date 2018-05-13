@@ -8,4 +8,6 @@
 3.Created a photo processor that can transform photos into measurable values by using Google vision API  
 4.Connected music database and photo processor  
 
-![Demo](https://github.com/gobackhuoxing/Music-Recommendation-INFO7250/blob/master/demo.jpg)
+![Demo](https://github.com/gobackhuoxing/Music-Recommendation-INFO7250/blob/master/demo.jpg)  
+
+This repo is under MIT License: https://opensource.org/licenses/MIT
